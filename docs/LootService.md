@@ -4,7 +4,7 @@
 - [ ]  Bind Loot to Nodes
 - [ ]  Setup Container GUI
 
-<a id="raw-url" href="[https://raw.githubusercontent.com/github-username/project/master/filename](https://github.com/PringleCPP/Michaels-Resources/blob/main/Downloadables/LootService.rbxm?raw=true)">Download LootService</a>
+[Download LootService]([https://octodex.github.com/images/minion.png](https://raw.githubusercontent.com/github-username/project/master/filename](https://github.com/PringleCPP/Michaels-Resources/blob/main/Downloadables/LootService.rbxm?raw=true) "download")
 
 ---
 
