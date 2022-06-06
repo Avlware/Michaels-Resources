@@ -6,7 +6,7 @@
 - [ ]  Bind Loot to Nodes
 - [ ]  Setup Container GUI
 
-[Download LootService](https://pringlecpp.github.io/Michaels-Resources/docs/LootService)
+[Download LootService](https://raw.githubusercontent.com/PringleCPP/Michaels-Resources/main/Downloadables/FactionService.rbxm)
 
 ---
 
@@ -55,3 +55,5 @@ LootService.Initialize()
 This system is not complete and will only print out the items, this can be easily implemented into a node based generation system and will be in the future when I have open time, if you have scripting knowledge putting my weighted loot generation system into nodes is as easy as 1 2 3.
 
 **Open Source** (C) Under Apache https://en.wikipedia.org/wiki/Apache_License (In short, you can use but credit is required somewhere even if its just in game code as long as it exists it is approved upon it is not required to be visible)
+
+[Download LootService](https://raw.githubusercontent.com/PringleCPP/Michaels-Resources/main/Downloadables/FactionService.rbxm)
