@@ -1,9 +1,12 @@
 **How it works**
 
-- [x] Create Loot Containers
-- [ ] Bind Loot to Nodes
-- [ ] Setup Container GUI
+- [x]  Create Loot Containers
+- [ ]  Bind Loot to Nodes
+- [ ]  Setup Container GUI
 
+__
+---
+--
 __
 
 Step 1: Place LootService in ServerStorage as the client will not need to access it
