@@ -20,6 +20,7 @@ local LootTable = {
     ["Combat Rifle"] = 15,
 }
 ```
+
 ```lua
 --// ["Item"] = Spawn percent (multiple items)
 local LootTable = {
@@ -39,7 +40,8 @@ local LootTable = {
             ["Combat Rifle"] = 15,
         }
     }
-}```
+}
+```
 
 Step 4: Initializing the script
 ```lua
