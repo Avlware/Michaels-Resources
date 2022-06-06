@@ -1,4 +1,4 @@
-[Doccuments](https://raw.githubusercontent.com/github-username/project/master/filename](https://github.com/PringleCPP/Michaels-Resources/blob/main/Downloadables/LootService.rbxm?raw=true) / [LootService](https://pringlecpp.github.io/Michaels-Resources/docs/LootService)
+[Doccuments](https://pringlecpp.github.io/Michaels-Resources/docs/LootService) / [LootService](https://pringlecpp.github.io/Michaels-Resources/docs/LootService)
 
 **How it works**
 
@@ -6,8 +6,7 @@
 - [ ]  Bind Loot to Nodes
 - [ ]  Setup Container GUI
 
-[Download LootService]([https://octodex.github.com/images/minion.png](https://raw.githubusercontent.com/github-username/project/master/filename](https://github.com/PringleCPP/Michaels-Resources/blob/main/Downloadables/LootService.rbxm?raw=true) "download")
-[Click me](http://www.google.com){: .btn}
+[Download LootService](https://pringlecpp.github.io/Michaels-Resources/docs/LootService)
 
 ---
 
