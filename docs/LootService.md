@@ -4,10 +4,9 @@
 - [ ]  Bind Loot to Nodes
 - [ ]  Setup Container GUI
 
-__
+<a id="raw-url" href="[https://raw.githubusercontent.com/github-username/project/master/filename](https://github.com/PringleCPP/Michaels-Resources/blob/main/Downloadables/LootService.rbxm?raw=true)">Download LootService</a>
+
 ---
---
-__
 
 Step 1: Place LootService in ServerStorage as the client will not need to access it
 Step 2: Customize your loot tables in the loot tables folder (Example:)
