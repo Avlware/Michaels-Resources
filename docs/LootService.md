@@ -2,9 +2,9 @@
 
 **How it works**
 
-- [x]  Create Loot Containers
-- [ ]  Bind Loot to Nodes
-- [ ]  Setup Container GUI
+- [x]   Create Loot Containers
+- [ ]   Bind Loot to Nodes
+- [ ]   Setup Container GUI
 
 [Download LootService](https://raw.githubusercontent.com/PringleCPP/Michaels-Resources/main/Downloadables/LootService.rbxm)
 
